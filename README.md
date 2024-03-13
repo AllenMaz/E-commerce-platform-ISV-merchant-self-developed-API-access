@@ -1,7 +1,7 @@
 # 各电商平台订单API接入(ISV/商家自研)
 
 ## 前言
-详细介绍作为ISV(Independent Software Vendors独立软件开发商)或者商家自研的情况下，如何对接各电商平台的订单API，包括<font color="#03A9F4">订单下载</font>，<font color="#03A9F4">运单号获取</font>，<font color="#03A9F4">面单打印</font>,<font color="#03A9F4">订单出库物流信息回传</font>，<font color="#03A9F4">商品下载</font>，<font color="#03A9F4">库存同步</font>等。从而实现将各电商平台的订单管理，发货等操作集成到自己的系统中。
+详细介绍作为ISV(Independent Software Vendors独立软件开发商)或者商家自研的情况下，如何对接各电商平台的订单API，包括[订单下载]()，[运单号获取]()，[面单打印](),[订单出库物流信息回传]()，[商品下载]()，[库存同步]()等。从而实现将各电商平台的订单管理，发货等操作集成到自己的系统中。
 
 ## 支持对接的电商平台
 
@@ -13,7 +13,7 @@
 ## 目录
 
 * [x] [项目架构](#项目架构)
-* [ ] 各电商平台API对接详解 [<span style="color:red">待更新</span>]
+* [ ] 各电商平台API对接详解 [<span style="color:red;">待更新</span>]
   - [天猫/淘宝](./天猫_淘宝/index.md)
   - [京东](./京东/index.md)
   - [抖音](./抖音/index.md)
@@ -36,17 +36,17 @@
   - [微店](./微店/index.md)
   - [大V店](./大V店/index.md)
   - [人人店](./人人店/index.md)
-* [ ] 如何打单发货 [<span style="color:red">待更新</span>]
+* [ ] 如何打单发货 [<span style="color:red;">待更新</span>]
   - 各平台订单如何获取运单号
   - 各平台订单如何打印面单（各平台打印控件接入）
   - 各平台订单如何回传发货物流信息
-* [ ] 通过阿里奇门对接外部系统 [<span style="color:red">待更新</span>]
+* [ ] 通过阿里奇门对接外部系统 [<span style="color:red;">待更新</span>]
   - 作为[奇门ERP]()角色对接下游仓库
   - 作为[奇门WMS]()角色对接上游ERP
-* [ ] 如何设计自己的商城API [<span style="color:red">待更新</span>]
+* [ ] 如何设计自己的商城API [<span style="color:red;">待更新</span>]
   - 开放平台设计方案及架构
   - 基础API设计（订单API，退款API，出库API,库存同步API等）
-* [ ] 设计自己的商品发布系统，将商品一件发布到各电商平台 [<span style="color:red">待更新</span>]
+* [ ] 设计自己的商品发布系统，将商品一件发布到各电商平台 [<span style="color:red;">待更新</span>]
 
 
 ## 项目架构
