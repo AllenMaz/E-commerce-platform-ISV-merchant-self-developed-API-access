@@ -13,7 +13,7 @@
 ## 目录
 
 * [x] [项目架构](#项目架构)
-* [ ] 各电商平台API对接详解 [<font color="red">待更新</font>]
+* [ ] 各电商平台API对接详解 [<span style="color:red">待更新</span>]
   - [天猫/淘宝](./天猫_淘宝/index.md)
   - [京东](./京东/index.md)
   - [抖音](./抖音/index.md)
@@ -36,17 +36,17 @@
   - [微店](./微店/index.md)
   - [大V店](./大V店/index.md)
   - [人人店](./人人店/index.md)
-* [ ] 如何打单发货 [<font color="red">待更新</font>]
+* [ ] 如何打单发货 [<span style="color:red">待更新</span>]
   - 各平台订单如何获取运单号
   - 各平台订单如何打印面单（各平台打印控件接入）
   - 各平台订单如何回传发货物流信息
-* [ ] 通过阿里奇门对接外部系统 [<font color="red">待更新</font>]
+* [ ] 通过阿里奇门对接外部系统 [<span style="color:red">待更新</span>]
   - 作为[奇门ERP]()角色对接下游仓库
   - 作为[奇门WMS]()角色对接上游ERP
-* [ ] 如何设计自己的商城API [<font color="red">待更新</font>]
+* [ ] 如何设计自己的商城API [<span style="color:red">待更新</span>]
   - 开放平台设计方案及架构
   - 基础API设计（订单API，退款API，出库API,库存同步API等）
-* [ ] 设计自己的商品发布系统，将商品一件发布到各电商平台 [<font color="red">待更新</font>]
+* [ ] 设计自己的商品发布系统，将商品一件发布到各电商平台 [<span style="color:red">待更新</span>]
 
 
 ## 项目架构
@@ -57,7 +57,7 @@
 
 扫码加我，请先主动做自我介绍，然后拉你进微信交流群：
 
-![wx](./images/wch.png)
+![wx](./images/wch.png){:height="50%" width="50%"}
 
 
 ## License
