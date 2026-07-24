@@ -53,11 +53,6 @@
 
 待更新
 
-## 微信交流
-
-扫码加我，请先主动做自我介绍，然后拉你进微信交流群：
-
-<img src="./images/wch.png" width="50%" height="50%">
 ## License
 
 [MIT](LICENSE) © 2024-present, HeiZhu
